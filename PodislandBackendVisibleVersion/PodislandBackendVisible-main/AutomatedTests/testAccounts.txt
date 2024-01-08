@@ -1,0 +1,27 @@
+{
+    "username" : "Spiderman",
+    "firstName" : "Peter",
+    "lastName" : "Parker",
+    "email" : "wholder321@gmail.com",
+    "password": "WEBSlinger54321!!",
+    "age": 27,
+    "googleAccount": "false"
+},
+{
+    "username" : "Alakazam",
+    "firstName" : "John",
+    "lastName" : "Opal",
+    "email" : "quippetyquop@gmail.com",
+    "password": "THUNDERlightning009!",
+    "age": 40,
+    "googleAccount": "false"
+},
+{
+    "username" : "Darius Crow",
+    "firstName" : "Rupert",
+    "lastName" : "Rovulin",
+    "email" : "llamallamacapybara@gmail.com",
+    "password": "DancingScallion55!",
+    "age": 32,
+    "googleAccount": "false"
+}
