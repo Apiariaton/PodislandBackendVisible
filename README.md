@@ -4,3 +4,8 @@ The backend for Podisland is written in Node, using Express. It was important to
 by using libraries to limit the rate of requests and safely handle request headers.
 
 The backend implements JSON Webtokens as a means to authenticate users.
+
+To view the site, please click the link below:
+
+https://podisland.netlify.app/
+
